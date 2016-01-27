@@ -47,6 +47,7 @@ public class MainActivity extends AppCompatActivity
     private static final int REQUEST_CODE_LOCATION = 2;
 
     SupportMapFragment sMapFragment;
+    //Test for git
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
